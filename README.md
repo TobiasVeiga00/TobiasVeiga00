@@ -10,7 +10,6 @@ This is the place where I opensource stuff and break things...
 
 - 🔭 I’m currently working on something cool :wink:
 - 💬 I'm open to opportunities to work.
-- ⚡ Fun fact: I :heart: :dog:s and ☕
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
