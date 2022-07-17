@@ -8,8 +8,8 @@
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - Estudiante de Licenciatura en informática, Universidad Nacional de La Plata. 
-- Mis intereses se centran en el Desarrollo Backend.
-- Tengo conocimiento solido de diversas tecnologías de programación, actualmente me encuentro enfocado con JAVA.
+- Mis intereses se centran en el Desarrollo con Python.
+- Tengo conocimiento solido de diversas tecnologías de programación.
 - Estoy abierto a las propuestas de trabajo referidas al rubro.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
