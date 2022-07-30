@@ -7,7 +7,7 @@
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- Estudiante de Licenciatura en informática, Universidad Nacional de La Plata. 
+- Estudiante de Licenciatura en Sistemas en Universidad Nacional de La Plata. 
 - Mis intereses se centran en el Desarrollo con Python.
 - Tengo bases solidas en diversas tecnologías de informática.
 - Estoy abierto a las propuestas de trabajo referidas al rubro.
